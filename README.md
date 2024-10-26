@@ -1,0 +1,2 @@
+# LeetMetric-App-using-JavaScript
+This JavaScript project is a LeetCode user progress tracker that fetches and displays data on problem-solving performance. It allows users to input their LeetCode username and retrieves details such as the number of problems solved and submission statistics across different difficulty levels. The project uses a proxy to bypass CORS restrictions and dynamically updates the UI with progress bars and cards.
